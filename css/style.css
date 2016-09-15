@@ -1,0 +1,30 @@
+*{
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+section{
+  width: 100%;
+  height: 300px;
+}
+#uno{
+  background: url("../img/juno.jpg") center center fixed;
+  background-size: cover;
+}
+
+#dos{
+  background: url("../img/building.jpeg") center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+#tres{
+  background: url("../img/spacex.jpeg") center center fixed;
+  background-size: cover;
+}
+h1 {
+  color: white;
+  font-size: 100px;
+    padding-top: 50px;
+  text-align: center;
+}
